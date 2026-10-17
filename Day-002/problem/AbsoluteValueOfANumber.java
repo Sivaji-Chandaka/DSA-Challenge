@@ -1,7 +1,7 @@
 
 import java.util.Scanner;
 
-class absoluteValueOfANumber {
+class AbsoluteValueOfANumber {
 
     public static int absoluteValueOfANumber(int n) {
         if (n < 0) {
